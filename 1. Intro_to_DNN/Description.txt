@@ -1,0 +1,4 @@
+This fold includes several Introductory Demos for DNN
+1) Shallow Neural Network Construction (1 hidden layer)
+2) Deep Neural Network Construction
+3) DNN Application - Image Classification
